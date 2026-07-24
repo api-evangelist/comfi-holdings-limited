@@ -1,0 +1,27 @@
+# Comfi
+
+> Comfi (Comfi Holdings Limited) is a UAE-based financial technology company providing B2B working capital solutions for small and medium enterprises and trading businesses — invoice discounting, Buy Now Pay Later (BNPL), and automotive dealer inventory financing — positioning itself around speed ("capital in hours, not weeks"). No public API or developer program is published as of this profile.
+
+## Company
+- [Comfi home](https://comfi.ai): B2B working capital for UAE SMEs
+- [About Us](https://comfi.ai/about-us): Company overview and mission
+- [Case Studies](https://comfi.ai/case-studies): Customer stories
+- [Blog](https://comfi.ai/blog): Company blog and articles
+
+## Products
+- Invoice Discounting: convert outstanding invoices into immediate cash
+- Buy Now, Pay Later (BNPL): flexible B2B credit terms
+- Automotive Dealer Financing: inventory financing for vehicle dealerships
+
+## Get Started
+- [Get Started / Sign Up](https://comfi.ai/get-started): Apply for working capital
+- [Help Center](https://help.comfi.ai/en/): Support documentation
+- [Contact](https://comfi.ai/contact-us): support@comfi.ai, +971 54 247 0392
+
+## Legal
+- [Terms & Conditions](https://comfi.ai/terms-and-conditions)
+- [Privacy Policy](https://comfi.ai/privacy-policy)
+
+## Notes
+- Eligibility: UAE-registered B2B business, 6+ months operating history, AED 100,000+ monthly revenue.
+- No public REST API, OpenAPI, SDK, MCP server, or developer portal was found at the time of this profile.
