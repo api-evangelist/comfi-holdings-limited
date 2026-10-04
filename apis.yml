@@ -1,5 +1,5 @@
 aid: comfi-holdings-limited
-name: Comfi Holdings Limited
+name: Comfi
 description: 'Comfi (Comfi Holdings Limited) is a UAE-based financial technology company providing
   B2B working capital solutions for small and medium enterprises and trading businesses. Its three
   core products are invoice discounting (turning outstanding invoices into immediate cash), Buy Now
@@ -90,3 +90,4 @@ x-enrichment:
   status: backfilled
   pass: local-v1
   note: backfilled from .gitignore signal + verified work evidence
+x-legal-name: Comfi Holdings Limited
